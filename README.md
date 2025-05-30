@@ -26,32 +26,30 @@
   </a>
 </p>
 
-
 ---
 
 ## 💻 Tech Stack  
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-800000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-800000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-800000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-800000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-800000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-800000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_SQL-800000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-800000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-800000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=perdsssssss&show_icons=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff">
+  <img src="https://github-readme-stats.vercel.app/api?username=perdsssssss&show_icons=true&bg_color=800000&title_color=ffffff&text_color=ffdddd&icon_color=ffffff">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perdsssssss&theme=black-ice&hide_border=false&ring=ffffff&fire=ffffff&sideNums=cccccc">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perdsssssss&theme=dark&hide_border=false&ring=ff6666&fire=ff9999&sideNums=ffaaaa">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perdsssssss&theme=black-ice&hide_border=false&bg_color=000000&title_color=ffffff&text_color=cccccc&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perdsssssss&theme=dark&hide_border=false&bg_color=800000&title_color=ffffff&text_color=ffdddd&layout=compact">
 </p>
 
 ---
@@ -72,5 +70,5 @@
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=perdsssssss&color=000000&style=flat-square&label=Profile+Views">
+  <img src="https://komarev.com/ghpvc/?username=perdsssssss&color=800000&style=flat-square&label=Profile+Views">
 </p>
