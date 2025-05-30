@@ -15,7 +15,7 @@
   <a href="https://www.facebook.com/ferds.corbs2" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/facebook-new.png" width="40" style="margin: 0 15px;" title="Facebook"/>
   </a>
-  <a href="https://instagram.com/Feerrdii" target="_blank">
+  <a href="https://instagram.com/pejayyyy" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" width="40" style="margin: 0 15px;" title="Instagram"/>
   </a>
   <a href="mailto:ferdinandcorbin26@gmail.com" target="_blank">
