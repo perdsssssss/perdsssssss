@@ -10,17 +10,22 @@
 ---
 
 ## 🔗 Connect with Me:
+
 <p align="center">
-  <a href="https://www.facebook.com/share/15fVAgYGF7/">
-    <img src="https://img.shields.io/badge/Facebook-000000?logo=Facebook&logoColor=white&style=for-the-badge">
+  <a href="https://www.facebook.com/ferds.corbs2" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/facebook-new.png" width="40" style="margin: 0 15px;" title="Facebook"/>
   </a>
-  <a href="https://instagram.com/alvhn.sl">
-    <img src="https://img.shields.io/badge/Instagram-000000?logo=Instagram&logoColor=white&style=for-the-badge">
+  <a href="https://instagram.com/Feerrdii" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" width="40" style="margin: 0 15px;" title="Instagram"/>
   </a>
-  <a href="mailto:soloalvhin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?logo=gmail&logoColor=white&style=for-the-badge">
+  <a href="mailto:ferdinandcorbin26@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/apple-mail.png" width="40" style="margin: 0 15px;" title="Email"/>
+  </a>
+  <a href="https://github.com/perdsssssss" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" style="margin: 0 15px;" title="GitHub"/>
   </a>
 </p>
+
 
 ---
 
