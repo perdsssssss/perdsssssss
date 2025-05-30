@@ -21,9 +21,6 @@
   <a href="mailto:ferdinandcorbin26@gmail.com" target="_blank" style="margin: 0 15px;">
     <img src="https://img.icons8.com/ios-filled/50/800000/apple-mail.png" width="40" title="Email"/>
   </a>
-  <a href="https://github.com/perdsssssss" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/ios-filled/50/800000/github.png" width="40" title="GitHub"/>
-  </a>
 </p>
 
 ---
