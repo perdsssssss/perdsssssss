@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I’m <strong>Pejay</strong> 🖤</h1>
 
-<p align="center">
+<p align="center" style="color:#800000;">
   💼 A driven <strong>developer & problem solver</strong> who thrives on turning logic into impact.  
   <br>💻 Skilled in <strong>Java, JavaScript, Python, and MySQL</strong>.  
   <br>🧠 Simplicity meets functionality in every line of code.  
@@ -12,17 +12,17 @@
 ## 🔗 Connect with Me:
 
 <p align="center">
-  <a href="https://www.facebook.com/ferds.corbs2" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/facebook-new.png" width="40" style="margin: 0 15px;" title="Facebook"/>
+  <a href="https://www.facebook.com/ferds.corbs2" target="_blank" style="margin: 0 15px;">
+    <img src="https://img.icons8.com/ios-filled/50/800000/facebook-new.png" width="40" title="Facebook"/>
   </a>
-  <a href="https://instagram.com/pejayyyy" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" width="40" style="margin: 0 15px;" title="Instagram"/>
+  <a href="https://instagram.com/pejayyyy" target="_blank" style="margin: 0 15px;">
+    <img src="https://img.icons8.com/ios-filled/50/800000/instagram-new.png" width="40" title="Instagram"/>
   </a>
-  <a href="mailto:ferdinandcorbin26@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/apple-mail.png" width="40" style="margin: 0 15px;" title="Email"/>
+  <a href="mailto:ferdinandcorbin26@gmail.com" target="_blank" style="margin: 0 15px;">
+    <img src="https://img.icons8.com/ios-filled/50/800000/apple-mail.png" width="40" title="Email"/>
   </a>
-  <a href="https://github.com/perdsssssss" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" style="margin: 0 15px;" title="GitHub"/>
+  <a href="https://github.com/perdsssssss" target="_blank" style="margin: 0 15px;">
+    <img src="https://img.icons8.com/ios-filled/50/800000/github.png" width="40" title="GitHub"/>
   </a>
 </p>
 
@@ -45,30 +45,30 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=perdsssssss&show_icons=true&bg_color=800000&title_color=ffffff&text_color=ffdddd&icon_color=ffffff">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perdsssssss&theme=dark&hide_border=false&ring=ff6666&fire=ff9999&sideNums=ffaaaa">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perdsssssss&theme=dark&hide_border=false&bg_color=800000&title_color=ffffff&text_color=ffdddd&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=perdsssssss&show_icons=true&bg_color=800000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perdsssssss&theme=dark&hide_border=false&ring=ff0000&fire=ff6666&sideNums=ff9999" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perdsssssss&theme=dark&hide_border=false&bg_color=800000&title_color=ffffff&text_color=ffffff&layout=compact" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=perdsssssss&theme=onedark&no-frame=false&no-bg=true&margin-w=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=perdsssssss&theme=onedark&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
 ## ✍️ Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=perdsssssss&color=800000&style=flat-square&label=Profile+Views">
+  <img src="https://komarev.com/ghpvc/?username=perdsssssss&color=800000&style=flat-square&label=Profile+Views" />
 </p>
