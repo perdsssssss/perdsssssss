@@ -53,9 +53,6 @@
   <a href="mailto:ferdinandcorbin26@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=800000" />
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=800000" />
-  </a>
 </div>
 💭 Philosophy
 <div align="center">
