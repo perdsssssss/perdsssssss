@@ -1,5 +1,5 @@
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=800000&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Pejay+%F0%9F%96%A4;Computer+Science+%7C+Digital+Forensics;Developer+%7C+Problem+Solver;Turning+Logic+Into+Impact" alt="Typing SVG" /> </div> <div align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> </div> <div align="center"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="200"/> </div>
-<img src="https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=800000" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 🛠️ Technical Arsenal
 
 💻 Programming Languages
