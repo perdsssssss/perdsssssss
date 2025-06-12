@@ -12,6 +12,7 @@
 </div>
 
 <h2 style="color:#800000; text-align:center; font-weight:bold;">🛠️ Technical Arsenal</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 style="color:#800000; text-align:center; font-weight:bold;">💻 Programming Languages</h3>
 <p align="center"> 
