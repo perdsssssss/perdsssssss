@@ -38,10 +38,12 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=perdsssssss&bg_color=0d1117&color=ffffff&line=800000&point=ff6666&area=true&hide_border=true" />
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 🏆 GitHub Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=perdsssssss&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1"/>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 🤝 Let's Connect!
 <div align="center">
   <a href="https://www.facebook.com/ferds.corbs2" target="_blank">
@@ -54,6 +56,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=800000" />
   </a>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 💭 Philosophy
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20the%20world%20of%20digital%20forensics,%20every%20byte%20tells%20a%20story.&author=Digital%20Detective" />
