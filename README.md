@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m <strong>Pejay!</strong> 🖤</h1> 
+<h1 align="center">Hi, I’m <strong>Pejay!</strong> 🖤</h1>  
 
 <p align="center" style="color:#800000;">
   💼 A driven <strong>developer & problem solver</strong> who thrives on turning logic into impact.  
