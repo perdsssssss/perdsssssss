@@ -4,7 +4,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="200"/>
 </div>
@@ -16,50 +15,18 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=800000" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=800000" />
 </p>
-🔧 Digital Forensics & Security Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=800000" />
-  <img src="https://img.shields.io/badge/Autopsy-FF6B6B?style=for-the-badge&logoColor=white&labelColor=800000" />
-  <img src="https://img.shields.io/badge/Volatility-4CAF50?style=for-the-badge&logoColor=white&labelColor=800000" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white&labelColor=800000" />
-</p>
 🗄️ Databases & Web Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=800000" />
   <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=800000" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=800000" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=800000" />
 </p>
 ⚙️ Development Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=800000" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=800000" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=800000" />
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=800000" />
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🔍 Digital Forensics Focus Areas
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200px">
-        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80"/>
-        <br><strong>Network Forensics</strong>
-        <br>Packet Analysis, Traffic Monitoring
-      </td>
-      <td align="center" width="200px">
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
-        <br><strong>Malware Analysis</strong>
-        <br>Reverse Engineering, Behavior Analysis
-      </td>
-      <td align="center" width="200px">
-        <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="80"/>
-        <br><strong>Mobile Forensics</strong>
-        <br>iOS/Android Data Recovery
-      </td>
-    </tr>
-  </table>
-</div>
 📊 GitHub Analytics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=perdsssssss&show_icons=true&theme=dark&bg_color=0d1117&border_color=800000&title_color=800000&text_color=ffffff&icon_color=800000"/>
@@ -74,16 +41,6 @@
 🏆 GitHub Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=perdsssssss&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1"/>
-</div>
-
-💡 Featured Projects
-<div align="center">
-  <a href="https://github.com/perdsssssss/digital-forensics-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=perdsssssss&repo=digital-forensics-toolkit&theme=dark&bg_color=0d1117&border_color=800000&title_color=800000&text_color=ffffff&icon_color=800000" />
-  </a>
-  <a href="https://github.com/perdsssssss/network-packet-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=perdsssssss&repo=network-packet-analyzer&theme=dark&bg_color=0d1117&border_color=800000&title_color=800000&text_color=ffffff&icon_color=800000" />
-  </a>
 </div>
 🤝 Let's Connect!
 <div align="center">
