@@ -1,4 +1,4 @@
-div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=800000&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Pejay+%F0%9F%96%A4;Computer+Science+%7C+Digital+Forensics;Developer+%7C+Problem+Solver;Turning+Logic+Into+Impact" alt="Typing SVG" /> 
+</div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=800000&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Pejay+%F0%9F%96%A4;Computer+Science+%7C+Digital+Forensics;Developer+%7C+Problem+Solver;Turning+Logic+Into+Impact" alt="Typing SVG" /> 
 </div> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> </div> <div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/> </div> 
@@ -7,19 +7,19 @@ div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 💻 Programming Languages
+**💻 Programming Languages**
 
 <p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=800000" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=800000" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=800000" /> </p> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🗄️ Databases & Web Technologies
+**🗄️ Databases & Web Technologies**
 
 <p align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=800000" /> <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=800000" /> </p> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# ⚙️ Development Tools
+**⚙️ Development Tools**
 
 <p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=800000" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=800000" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=800000" /> </p> 
 
@@ -45,5 +45,5 @@ div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+
 
 ## 💭 Philosophy
 
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20the%20world%20of%20digital%20forensics,%20every%20byte%20tells%20a%20story.&author=Digital%20Detective" /> </div> <div align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>"Code is like humor. When you have to explain it, it's bad."</b></em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=perdsssssss&color=800000&style=for-the-badge&label=Profile+Views" /> <img src="https://img.shields.io/github/followers/perdsssssss?style=for-the-badge&color=800000&labelColor=000000" /> </div> <div align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"> </div>
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20the%20world%20of%20digital%20forensics,%20every%20byte%20tells%20a%20story.&author=Digital%20Detective" />  </div> <div align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>"Code is like humor. When you have to explain it, it's bad."</b></em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=perdsssssss&color=800000&style=for-the-badge&label=Profile+Views" /> <img src="https://img.shields.io/github/followers/perdsssssss?style=for-the-badge&color=800000&labelColor=000000" /> </div> <div align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"> </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
