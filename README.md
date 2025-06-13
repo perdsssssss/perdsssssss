@@ -36,7 +36,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perdsssssss&layout=compact&theme=dark&bg_color=0d1117&title_color=800000&text_color=ffffff&border_color=800000&hide_border=false" alt="Top Languages" width="400" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=perdsssssss&bg_color=0d1117&color=ffffff&line=800000&point=ff6666&area=true&hide_border=false&border_color=800000&theme=react-dark" alt="Activity Graph" width="400" />
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Achievements
