@@ -28,14 +28,14 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=perdsssssss&show_icons=true&theme=dark&bg_color=0d1117&border_color=800000&title_color=800000&text_color=ffffff&icon_color=800000"/>
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perdsssssss&layout=compact&theme=dark&bg_color=0d1117&border_color=800000&title_color=800000&text_color=ffffff"/>
+<img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=perdsssssss&show_icons=true&theme=dark&bg_color=0d1117&border_color=800000&title_color=800000&text_color=ffffff&icon_color=800000"/>
+<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perdsssssss&layout=compact&theme=dark&bg_color=0d1117&border_color=800000&title_color=800000&text_color=ffffff"/>
 </div>
 <div align="center">
-  <img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=perdsssssss&theme=dark&background=0d1117&border=800000&stroke=800000&ring=800000&fire=ff6666&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=800000&sideLabels=800000&dates=ffffff" />
+<img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=perdsssssss&theme=dark&background=0d1117&border=800000&stroke=800000&ring=800000&fire=ff6666&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=800000&sideLabels=800000&dates=ffffff" />
 </div>
 <div align="center">
-  <img width="400" height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=perdsssssss&bg_color=0d1117&color=ffffff&line=800000&point=ff6666&area=true&hide_border=false&border_color=800000&theme=react-dark" alt="Activity Graph" />
+<img width="400" height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=perdsssssss&bg_color=0d1117&color=ffffff&line=800000&point=ff6666&area=true&hide_border=false&border_color=800000&theme=react-dark" alt="Activity Graph" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
