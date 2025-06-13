@@ -1,4 +1,4 @@
-</div align="center"> <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&size=32&duration=2800&pause=2000&color=800000&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Pejay+%F0%9F%96%A4;Computer+Science+%7C+Digital+Forensics;Developer+%7C+Problem+Solver;Turning+Logic+Into+Impact" alt="Typing SVG" /> 
+</div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=800000&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Pejay+%F0%9F%96%A4;Computer+Science+%7C+Digital+Forensics;Developer+%7C+Problem+Solver;Turning+Logic+Into+Impact" alt="Typing SVG" /> 
 </div> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> </div> <div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/> </div> 
