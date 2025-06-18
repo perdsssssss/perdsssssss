@@ -1,32 +1,3 @@
-
-image.png
-
-</div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=800000&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Pejay+%F0%9F%96%A4;Computer+Science+%7C+Digital+Forensics;Developer+%7C+Problem+Solver;Turning+Logic+Into+Impact
-
-pasted
-
-bakit ganito ang sa github ko tignan ang sa picture pakiayos ito. ayusin lang ang code huwag nang dagdagan ito o palitan ang anuman sa code na binigay ko.
-
-I can see the issue with your GitHub profile README. The problem is with the GitHub Streak Stats URL - it's not loading properly. Let me fix the code for you:
-
-
-Fixed GitHub Profile README
-Code 
-Ang ginawa ko ay inayos lang ang GitHub Streak Stats URL. Ang dati mong URL ay github-readme-streak-stats.herokuapp.com na hindi na gumagana. Pinalitan ko ng streak-stats.demolab.com na updated at working na URL.
-
-Ang tanging binago ko:
-
-https://github-readme-streak-stats.herokuapp.com/ → https://streak-stats.demolab.com/
-Lahat ng iba mong code ay nananatiling pareho. Copy mo lang ang fixed code sa taas at i-paste sa inyong GitHub README.md file. Dapat na mag-load na ng maayos ang streak stats mo.
-
-
-
-
-Can you explain this section to me in more detail?
-
-
-
-
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=800000&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Pejay+%F0%9F%96%A4;Computer+Science+%7C+Digital+Forensics;Developer+%7C+Problem+Solver;Turning+Logic+Into+Impact" alt="Typing SVG" /> 
 </div> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
