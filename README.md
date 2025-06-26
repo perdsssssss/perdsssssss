@@ -49,7 +49,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=perdsssssss&show_icons=true&theme=dark&bg_color=0d1117&title_color=800000&text_color=ffffff&icon_color=800000&border_color=800000&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perdsssssss&theme=dark&background=0d1117&ring=800000&fire=ff6666&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=800000&dates=ffffff&sideLabels=800000&border=800000&hide_border=false" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=perdsssssss&theme=dark&background=0d1117&ring=800000&fire=ff6666&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=800000&dates=ffffff&sideLabels=800000&border=800000" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
