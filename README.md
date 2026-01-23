@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=800000&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Pejay+%F0%9F%96%A4;Computer+Science+%7C+Digital+Forensics;Developer+%7C+Problem+Solver;Turning+Logic+Into+Impact" alt="Typing SVG" />
 </div>
 
